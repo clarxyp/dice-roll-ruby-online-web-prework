@@ -5,3 +5,4 @@
 def roll(1..6)
   return random
 end
+end
